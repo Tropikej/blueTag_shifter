@@ -2,7 +2,8 @@
     
 JTAGulator alternative for RP2040 microcontroller based development boards including RPi Pico. Huge shout-out to Joe Grand for his JTAGulator project!
 
-
+This fork aims to add level shifting functionnalities to the blueTag. 
+The voltage translation is configurable via the serial communication.
 
 
 ![](images/swd.JPG?raw=true "blueTag detecting SWD pinout on STM32 Blue Pill & a Raspberry Pi Pico")
